@@ -8,7 +8,7 @@ public class HelloContraller {
 	
 	@GetMapping("/")
 	public String getvalue() {
-		return "Hellow world!";
+		return "Hellow worldss!";
 	}
 
 }
